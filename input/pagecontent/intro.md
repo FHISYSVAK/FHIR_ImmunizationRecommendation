@@ -1,3 +1,3 @@
-# Introdudkjon til ImunizationRecommendataion for Fhi SYSVAK
+# Introduksjon til ImunizationRecommendataion for Fhi SYSVAK
 
 Her kommer en introduksjon.....
