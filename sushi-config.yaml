@@ -6,8 +6,8 @@
 id: Fhi.SYSVAK.Fhir.ImmunizationRecommendation
 canonical: https://fhi.no
 name: Fhi.SYSVAK.Fhir.ImmunizationRecommendation
-# title: Example Title
-# description: Example Implementation Guide for getting started with SUSHI
+title: Fhi SYSVAK Fhir ImmunizationRecommendation
+description: ImmunizationRecommendation objekt for FHI SYSVAK
 status: draft # draft | active | retired | unknown
 version: 0.1.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
@@ -43,9 +43,12 @@ publisher:
 # with supported extensions (e.g., .md/.xml) will be treated as
 # sub-pages.
 #
-# pages:
-#   index.md:
-#     title: Example Home
+pages:
+  index.md:
+    title: Example Home
+  intro.md:
+    title: introduksjon til ImmunizationRecommendation
+
 #   implementation.xml:
 #   examples.xml:
 #     title: Examples Overview

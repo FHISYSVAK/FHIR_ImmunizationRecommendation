@@ -1,3 +1,3 @@
 # Fhi.SYSVAK.Fhir.ImmunizationRecommendation
 
-Feel free to modify this index page with your own awesome content!
+Brukes til å vise vaksine anbefalinger fra FHI til Helsenorge
